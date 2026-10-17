@@ -3,3 +3,5 @@
 Research project examining how face accessories, including caps, glasses, and masks, affect vision-language model (VLM) evaluation.
 
 This repository contains dataset manifests, generated portraits and accessory variants, generation and evaluation notebooks, model outputs, human-review materials, and analysis results. Evaluation work includes MiniCPM and SigLIP2, with objective and subjective tracks and pilot experiments.
+
+This project was carried out as part of the Data Readiness and Evaluation in AI course at Université Paris-Saclay as a group assignment.
