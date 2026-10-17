@@ -1,0 +1,5 @@
+model,true_label,base,cap,glasses,mask
+MiniCPM-V 4.6,Female,1.11,13.33,2.22,2.5
+MiniCPM-V 4.6,Male,0.0,0.0,0.0,0.28
+SigLIP 2,Female,0.83,10.0,2.5,3.06
+SigLIP 2,Male,0.0,0.0,0.0,0.0

@@ -1,0 +1,5 @@
+version,width,height,format,images
+cap,512,512,PNG,720
+glasses,512,512,PNG,720
+mask,512,512,PNG,720
+original,256,256,JPEG,720

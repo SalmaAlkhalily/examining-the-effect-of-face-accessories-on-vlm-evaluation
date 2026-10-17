@@ -1,0 +1,574 @@
+filename,source_hash,condition,attribute,prediction,margin,raw
+828538ef27120a0f_original.png,828538ef27120a0f,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_original.png,828538ef27120a0f,original,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_original.png,828538ef27120a0f,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_glasses.png,828538ef27120a0f,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_glasses.png,828538ef27120a0f,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_glasses.png,828538ef27120a0f,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_mask.png,828538ef27120a0f,mask,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_mask.png,828538ef27120a0f,mask,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_mask.png,828538ef27120a0f,mask,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_cap.png,828538ef27120a0f,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+828538ef27120a0f_cap.png,828538ef27120a0f,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+828538ef27120a0f_cap.png,828538ef27120a0f,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+828538ef27120a0f_no_edit.png,828538ef27120a0f,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_no_edit.png,828538ef27120a0f,no_edit,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+828538ef27120a0f_no_edit.png,828538ef27120a0f,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_original.png,6b25b04bf1fb22ab,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_original.png,6b25b04bf1fb22ab,original,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_original.png,6b25b04bf1fb22ab,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_glasses.png,6b25b04bf1fb22ab,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_glasses.png,6b25b04bf1fb22ab,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_glasses.png,6b25b04bf1fb22ab,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_mask.png,6b25b04bf1fb22ab,mask,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_mask.png,6b25b04bf1fb22ab,mask,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_mask.png,6b25b04bf1fb22ab,mask,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_cap.png,6b25b04bf1fb22ab,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+6b25b04bf1fb22ab_cap.png,6b25b04bf1fb22ab,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+6b25b04bf1fb22ab_cap.png,6b25b04bf1fb22ab,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+6b25b04bf1fb22ab_no_edit.png,6b25b04bf1fb22ab,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_no_edit.png,6b25b04bf1fb22ab,no_edit,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+6b25b04bf1fb22ab_no_edit.png,6b25b04bf1fb22ab,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_original.png,26a5b1da09c8def4,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_original.png,26a5b1da09c8def4,original,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_original.png,26a5b1da09c8def4,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_glasses.png,26a5b1da09c8def4,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_glasses.png,26a5b1da09c8def4,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_glasses.png,26a5b1da09c8def4,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_mask.png,26a5b1da09c8def4,mask,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_mask.png,26a5b1da09c8def4,mask,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_mask.png,26a5b1da09c8def4,mask,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_cap.png,26a5b1da09c8def4,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+26a5b1da09c8def4_cap.png,26a5b1da09c8def4,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+26a5b1da09c8def4_cap.png,26a5b1da09c8def4,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+26a5b1da09c8def4_no_edit.png,26a5b1da09c8def4,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_no_edit.png,26a5b1da09c8def4,no_edit,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+26a5b1da09c8def4_no_edit.png,26a5b1da09c8def4,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_original.png,a0f99a172e7c6c83,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_original.png,a0f99a172e7c6c83,original,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_original.png,a0f99a172e7c6c83,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_glasses.png,a0f99a172e7c6c83,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_glasses.png,a0f99a172e7c6c83,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_glasses.png,a0f99a172e7c6c83,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_mask.png,a0f99a172e7c6c83,mask,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_mask.png,a0f99a172e7c6c83,mask,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_mask.png,a0f99a172e7c6c83,mask,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_cap.png,a0f99a172e7c6c83,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+a0f99a172e7c6c83_cap.png,a0f99a172e7c6c83,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+a0f99a172e7c6c83_cap.png,a0f99a172e7c6c83,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+a0f99a172e7c6c83_no_edit.png,a0f99a172e7c6c83,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_no_edit.png,a0f99a172e7c6c83,no_edit,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a0f99a172e7c6c83_no_edit.png,a0f99a172e7c6c83,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_original.png,b6f578cce28073d3,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_original.png,b6f578cce28073d3,original,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_original.png,b6f578cce28073d3,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_glasses.png,b6f578cce28073d3,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_glasses.png,b6f578cce28073d3,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_glasses.png,b6f578cce28073d3,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_mask.png,b6f578cce28073d3,mask,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_mask.png,b6f578cce28073d3,mask,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_mask.png,b6f578cce28073d3,mask,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_cap.png,b6f578cce28073d3,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+b6f578cce28073d3_cap.png,b6f578cce28073d3,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+b6f578cce28073d3_cap.png,b6f578cce28073d3,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+b6f578cce28073d3_no_edit.png,b6f578cce28073d3,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_no_edit.png,b6f578cce28073d3,no_edit,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+b6f578cce28073d3_no_edit.png,b6f578cce28073d3,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_original.png,02d7f72c340abb0d,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_original.png,02d7f72c340abb0d,original,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_original.png,02d7f72c340abb0d,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_glasses.png,02d7f72c340abb0d,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_glasses.png,02d7f72c340abb0d,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_glasses.png,02d7f72c340abb0d,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_mask.png,02d7f72c340abb0d,mask,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_mask.png,02d7f72c340abb0d,mask,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_mask.png,02d7f72c340abb0d,mask,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_cap.png,02d7f72c340abb0d,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+02d7f72c340abb0d_cap.png,02d7f72c340abb0d,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+02d7f72c340abb0d_cap.png,02d7f72c340abb0d,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+02d7f72c340abb0d_no_edit.png,02d7f72c340abb0d,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_no_edit.png,02d7f72c340abb0d,no_edit,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+02d7f72c340abb0d_no_edit.png,02d7f72c340abb0d,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_original.png,a82f4cbc3ebd4d6a,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_original.png,a82f4cbc3ebd4d6a,original,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_original.png,a82f4cbc3ebd4d6a,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_glasses.png,a82f4cbc3ebd4d6a,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_glasses.png,a82f4cbc3ebd4d6a,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_glasses.png,a82f4cbc3ebd4d6a,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_mask.png,a82f4cbc3ebd4d6a,mask,eyeglasses,invalid,,"{
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_mask.png,a82f4cbc3ebd4d6a,mask,face_mask,invalid,,"{
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_mask.png,a82f4cbc3ebd4d6a,mask,cap,invalid,,"{
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_cap.png,a82f4cbc3ebd4d6a,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+a82f4cbc3ebd4d6a_cap.png,a82f4cbc3ebd4d6a,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+a82f4cbc3ebd4d6a_cap.png,a82f4cbc3ebd4d6a,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+a82f4cbc3ebd4d6a_no_edit.png,a82f4cbc3ebd4d6a,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_no_edit.png,a82f4cbc3ebd4d6a,no_edit,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+a82f4cbc3ebd4d6a_no_edit.png,a82f4cbc3ebd4d6a,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_original.png,e281959f9e2351f6,original,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_original.png,e281959f9e2351f6,original,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_original.png,e281959f9e2351f6,original,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_glasses.png,e281959f9e2351f6,glasses,eyeglasses,yes,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_glasses.png,e281959f9e2351f6,glasses,face_mask,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_glasses.png,e281959f9e2351f6,glasses,cap,no,,"{
+  ""eyeglasses"": ""yes"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_mask.png,e281959f9e2351f6,mask,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_mask.png,e281959f9e2351f6,mask,face_mask,yes,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_mask.png,e281959f9e2351f6,mask,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""yes"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_cap.png,e281959f9e2351f6,cap,eyeglasses,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+e281959f9e2351f6_cap.png,e281959f9e2351f6,cap,face_mask,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+e281959f9e2351f6_cap.png,e281959f9e2351f6,cap,cap,invalid,,"{
+  ""cap"": ""yes"",
+  ""face_mask"": ""no""
+}"
+e281959f9e2351f6_no_edit.png,e281959f9e2351f6,no_edit,eyeglasses,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_no_edit.png,e281959f9e2351f6,no_edit,face_mask,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"
+e281959f9e2351f6_no_edit.png,e281959f9e2351f6,no_edit,cap,no,,"{
+  ""eyeglasses"": ""no"",
+  ""face_mask"": ""no"",
+  ""cap"": ""no""
+}"

@@ -1,0 +1,10 @@
+{
+  "source": "human_review/results/human_review.csv",
+  "baseline_rows": 395,
+  "slots": [
+    "reviewer_1",
+    "reviewer_2",
+    "reviewer_3"
+  ],
+  "rule": "Fixed assignments. One teammate and one active session per slot."
+}

@@ -1,0 +1,109 @@
+{
+  "created": "2026-09-26T00:29:22.848751+00:00",
+  "fingerprint": "c2f422685df63944ad4c5235f9640be822a0a5621b987fcfbda4ad4c894cdf83",
+  "config": {
+    "model": "google/siglip2-so400m-patch14-384",
+    "revision": "e8e487298228002f3d8a82e0cd5c8ea9c567f57f",
+    "jobs": [
+      "physician",
+      "school teacher",
+      "delivery driver"
+    ],
+    "conditions": [
+      "original",
+      "no_edit",
+      "glasses",
+      "mask",
+      "cap"
+    ],
+    "protocol": "c4_pilot_40_v1",
+    "inference_code_sha256": "4dcbd99092696b86a27d7bf108d5ddb47c4dd7e3ecb73397a5dad900df054925",
+    "seed": 0,
+    "score": "cosine",
+    "dtype": "float32",
+    "sampling": false,
+    "num_beams": 1,
+    "max_new_tokens": 128,
+    "max_slice_nums": 1,
+    "siglip_max_length": 64,
+    "margin_threshold": 0.0,
+    "texts_or_prompts": [
+      {
+        "key": "job:physician",
+        "task": "job",
+        "target": "physician",
+        "text": "a portrait of a physician."
+      },
+      {
+        "key": "job:school teacher",
+        "task": "job",
+        "target": "school teacher",
+        "text": "a portrait of a school teacher."
+      },
+      {
+        "key": "job:delivery driver",
+        "task": "job",
+        "target": "delivery driver",
+        "text": "a portrait of a delivery driver."
+      },
+      {
+        "key": "eyeglasses:present",
+        "task": "attribute",
+        "target": "eyeglasses",
+        "polarity": "present",
+        "text": "a portrait of a person wearing eyeglasses."
+      },
+      {
+        "key": "eyeglasses:absent",
+        "task": "attribute",
+        "target": "eyeglasses",
+        "polarity": "absent",
+        "text": "a portrait of a person without eyeglasses."
+      },
+      {
+        "key": "face_mask:present",
+        "task": "attribute",
+        "target": "face_mask",
+        "polarity": "present",
+        "text": "a portrait of a person wearing a face mask."
+      },
+      {
+        "key": "face_mask:absent",
+        "task": "attribute",
+        "target": "face_mask",
+        "polarity": "absent",
+        "text": "a portrait of a person without a face mask."
+      },
+      {
+        "key": "cap:present",
+        "task": "attribute",
+        "target": "cap",
+        "polarity": "present",
+        "text": "a portrait of a person wearing a cap."
+      },
+      {
+        "key": "cap:absent",
+        "task": "attribute",
+        "target": "cap",
+        "polarity": "absent",
+        "text": "a portrait of a person without a cap."
+      }
+    ]
+  },
+  "environment": {
+    "python": "3.11.14",
+    "platform": "Linux-5.14.0-687.49.1.el9_8.x86_64-x86_64-with-glibc2.34",
+    "packages": {
+      "torch": "2.5.1",
+      "torchvision": "0.20.1",
+      "transformers": "4.51.3",
+      "huggingface-hub": "0.30.2",
+      "numpy": "1.26.4",
+      "pandas": "2.2.3",
+      "Pillow": "10.4.0"
+    }
+  },
+  "manifest_sha256": "7b28ea270df8940511bb47a82bc61e0922cd3bb784dc134dab71a12a465c92a0",
+  "qa_sha256": "4aa633e1691b456ae5275ff3479253a69ef3e52b9b49c5c535cb775ae779191a",
+  "utility_sha256": "5efbe9b24516ca5f8aab2b7b295bba7ffa45fe3abd9c6b6409315275bb79b722"
+}

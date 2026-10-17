@@ -1,0 +1,25 @@
+model,attribute,image_type,n,accuracy,ci_low,ci_high
+MiniCPM-V 4.6,age,base,720,86.53,84.17,88.89
+MiniCPM-V 4.6,age,cap,720,82.5,79.72,85.28
+MiniCPM-V 4.6,age,glasses,720,84.86,82.22,87.5
+MiniCPM-V 4.6,age,mask,720,69.31,65.97,72.5
+MiniCPM-V 4.6,ethnicity,base,720,91.94,90.0,93.89
+MiniCPM-V 4.6,ethnicity,cap,720,85.69,83.06,88.19
+MiniCPM-V 4.6,ethnicity,glasses,720,90.97,88.89,92.92
+MiniCPM-V 4.6,ethnicity,mask,720,85.28,82.64,87.78
+MiniCPM-V 4.6,gender,base,720,99.44,98.89,99.86
+MiniCPM-V 4.6,gender,cap,720,93.33,91.39,95.14
+MiniCPM-V 4.6,gender,glasses,720,98.89,98.06,99.58
+MiniCPM-V 4.6,gender,mask,720,98.61,97.64,99.44
+SigLIP 2,age,base,720,55.69,52.08,59.17
+SigLIP 2,age,cap,720,50.0,46.25,53.75
+SigLIP 2,age,glasses,720,53.19,49.58,56.81
+SigLIP 2,age,mask,720,38.06,34.58,41.67
+SigLIP 2,ethnicity,base,720,92.22,90.28,94.17
+SigLIP 2,ethnicity,cap,720,87.92,85.56,90.28
+SigLIP 2,ethnicity,glasses,720,89.31,86.94,91.53
+SigLIP 2,ethnicity,mask,720,87.78,85.42,90.14
+SigLIP 2,gender,base,720,99.58,99.03,100.0
+SigLIP 2,gender,cap,720,95.0,93.33,96.53
+SigLIP 2,gender,glasses,720,98.75,97.92,99.44
+SigLIP 2,gender,mask,720,98.47,97.5,99.31

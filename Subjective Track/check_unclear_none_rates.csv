@@ -1,0 +1,13 @@
+job,image_type,n,unclear_rate,none_rate
+construction_worker,base,720,0.0,0.0
+construction_worker,cap,720,0.0,0.0
+construction_worker,glasses,720,0.0,0.0
+construction_worker,mask,720,0.0,0.0
+nurse,base,720,0.0,0.0
+nurse,cap,720,0.0,0.0
+nurse,glasses,720,0.0,0.0
+nurse,mask,720,0.0,0.0
+software_engineer,base,720,0.0,0.0
+software_engineer,cap,720,0.0,0.0
+software_engineer,glasses,720,0.0,0.0
+software_engineer,mask,720,0.0,0.0

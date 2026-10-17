@@ -1,0 +1,4 @@
+accessory,expected,matched_ids,missing_ids,files_in_folder,extra_ids,duplicate_ids
+mask,720,720,0,720,0,0
+cap,720,720,0,720,0,0
+glasses,720,720,0,720,0,0

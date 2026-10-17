@@ -1,0 +1,10 @@
+job,accessory,change_score,change_job_logit,change_neutral_logit
+software_engineer,cap,0.235,-1.553,-1.788
+software_engineer,glasses,0.268,-1.779,-2.048
+software_engineer,mask,-2.158,-5.216,-3.058
+nurse,cap,0.789,-0.999,-1.788
+nurse,glasses,0.136,-1.911,-2.048
+nurse,mask,3.316,0.258,-3.058
+construction_worker,cap,1.904,0.116,-1.788
+construction_worker,glasses,-0.666,-2.714,-2.048
+construction_worker,mask,-0.306,-3.364,-3.058

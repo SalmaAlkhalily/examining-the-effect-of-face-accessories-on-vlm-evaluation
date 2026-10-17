@@ -1,0 +1,13 @@
+attribute,image_type,n,unclear_rate,none_rate
+age,base,720,0.0,0.0
+age,cap,720,0.0,0.0
+age,glasses,720,0.0,0.0
+age,mask,720,0.0,0.0
+ethnicity,base,720,0.0,0.0
+ethnicity,cap,720,0.0,0.0
+ethnicity,glasses,720,0.0,0.0
+ethnicity,mask,720,0.0,0.0
+gender,base,720,0.0,0.0
+gender,cap,720,0.0,0.0
+gender,glasses,720,0.0,0.0
+gender,mask,720,0.0,0.0

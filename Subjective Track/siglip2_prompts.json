@@ -1,0 +1,82 @@
+[
+ {
+  "prompt_set": "neutral",
+  "template_index": 0,
+  "text": "a photo of a person."
+ },
+ {
+  "prompt_set": "neutral",
+  "template_index": 1,
+  "text": "a person."
+ },
+ {
+  "prompt_set": "neutral",
+  "template_index": 2,
+  "text": "this is a person."
+ },
+ {
+  "prompt_set": "neutral",
+  "template_index": 3,
+  "text": "cropped face photo of a person."
+ },
+ {
+  "prompt_set": "software_engineer",
+  "template_index": 0,
+  "text": "a photo of a person suitable for a job as a software engineer."
+ },
+ {
+  "prompt_set": "software_engineer",
+  "template_index": 1,
+  "text": "a person suitable for a job as a software engineer."
+ },
+ {
+  "prompt_set": "software_engineer",
+  "template_index": 2,
+  "text": "this is a person suitable for a job as a software engineer."
+ },
+ {
+  "prompt_set": "software_engineer",
+  "template_index": 3,
+  "text": "cropped face photo of a person suitable for a job as a software engineer."
+ },
+ {
+  "prompt_set": "nurse",
+  "template_index": 0,
+  "text": "a photo of a person suitable for a job as a nurse."
+ },
+ {
+  "prompt_set": "nurse",
+  "template_index": 1,
+  "text": "a person suitable for a job as a nurse."
+ },
+ {
+  "prompt_set": "nurse",
+  "template_index": 2,
+  "text": "this is a person suitable for a job as a nurse."
+ },
+ {
+  "prompt_set": "nurse",
+  "template_index": 3,
+  "text": "cropped face photo of a person suitable for a job as a nurse."
+ },
+ {
+  "prompt_set": "construction_worker",
+  "template_index": 0,
+  "text": "a photo of a person suitable for a job as a construction worker."
+ },
+ {
+  "prompt_set": "construction_worker",
+  "template_index": 1,
+  "text": "a person suitable for a job as a construction worker."
+ },
+ {
+  "prompt_set": "construction_worker",
+  "template_index": 2,
+  "text": "this is a person suitable for a job as a construction worker."
+ },
+ {
+  "prompt_set": "construction_worker",
+  "template_index": 3,
+  "text": "cropped face photo of a person suitable for a job as a construction worker."
+ }
+]

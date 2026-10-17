@@ -1,0 +1,13 @@
+accessory,check,answered_n,issue_n,uncertain_n,missing_or_invalid_n
+mask,Wrong accessory,303,0,0,0
+mask,Placement issue,303,22,3,0
+mask,Preservation issue,303,1,0,0
+mask,Visual defect,303,7,3,0
+cap,Wrong accessory,303,0,0,0
+cap,Placement issue,303,6,1,0
+cap,Preservation issue,303,28,1,0
+cap,Visual defect,303,21,2,0
+glasses,Wrong accessory,84,0,0,0
+glasses,Placement issue,84,0,0,0
+glasses,Preservation issue,84,0,0,0
+glasses,Visual defect,84,0,0,0

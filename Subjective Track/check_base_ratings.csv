@@ -1,0 +1,4 @@
+job,mean_rating,n_rated,n,A,B,C,D,E,NONE
+software_engineer,4.87,720,720,0.0,0,0.0,12.64,87.36,0
+nurse,4.95,720,720,0.0,0,0.0,4.72,95.28,0
+construction_worker,4.94,720,720,1.25,0,0.14,0.97,97.64,0

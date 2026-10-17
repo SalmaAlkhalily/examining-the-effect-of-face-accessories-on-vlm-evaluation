@@ -1,0 +1,4 @@
+accessory,reviewed_n,accepted_n,acceptance_rate,wilson_95_low,wilson_95_high
+mask,303,270,0.891,0.851,0.921
+cap,303,263,0.868,0.825,0.902
+glasses,84,84,1.0,0.956,1.0

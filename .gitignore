@@ -1,0 +1,12 @@
+# Local caches and operating system files
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Google Drive cloud document pointers
+*.gsheet

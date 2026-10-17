@@ -1,0 +1,8 @@
+Measure,Count
+Original metadata records,9000
+Unique original IDs,9000
+Image files in source folder,12393
+Metadata IDs with expected JPG present,9000
+Metadata IDs missing expected JPG,0
+Source file IDs absent from original metadata,3393
+Sampled identities,720

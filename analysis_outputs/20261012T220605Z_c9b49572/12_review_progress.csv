@@ -1,0 +1,4 @@
+accessory,accept,reject,uncertain,unreviewed,available,reviewed,coverage_pct,acceptance_pct_of_reviewed
+mask,270,2,31,417,720,303,42.1,89.1
+cap,263,20,20,417,720,303,42.1,86.8
+glasses,84,0,0,636,720,84,11.7,100.0

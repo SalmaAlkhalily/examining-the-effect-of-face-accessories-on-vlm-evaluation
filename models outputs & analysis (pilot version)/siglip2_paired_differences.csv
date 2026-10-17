@@ -1,0 +1,169 @@
+source_hash,job,condition,reference,comparison,edited_status,reference_status,valid_pair,delta
+828538ef27120a0f,physician,no_edit,original,no_edit − original,scored,scored,True,0.012819822877645493
+828538ef27120a0f,physician,glasses,original,glasses − original,scored,scored,True,0.016972225159406662
+828538ef27120a0f,physician,mask,original,mask − original,scored,scored,True,-0.014317892491817474
+828538ef27120a0f,physician,cap,original,cap − original,scored,scored,True,-0.018097147345542908
+828538ef27120a0f,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,0.004152402281761169
+828538ef27120a0f,physician,mask,no_edit,mask − no_edit,scored,scored,True,-0.027137715369462967
+828538ef27120a0f,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.0309169702231884
+828538ef27120a0f,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.013747833669185638
+828538ef27120a0f,school teacher,glasses,original,glasses − original,scored,scored,True,0.013874158263206482
+828538ef27120a0f,school teacher,mask,original,mask − original,scored,scored,True,-0.05074650049209595
+828538ef27120a0f,school teacher,cap,original,cap − original,scored,scored,True,-0.03163999691605568
+828538ef27120a0f,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,0.0001263245940208435
+828538ef27120a0f,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.06449433416128159
+828538ef27120a0f,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.04538783058524132
+828538ef27120a0f,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.014112807810306549
+828538ef27120a0f,delivery driver,glasses,original,glasses − original,scored,scored,True,-0.005682520568370819
+828538ef27120a0f,delivery driver,mask,original,mask − original,scored,scored,True,-0.050109200179576874
+828538ef27120a0f,delivery driver,cap,original,cap − original,scored,scored,True,0.009945623576641083
+828538ef27120a0f,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.019795328378677368
+828538ef27120a0f,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.06422200798988342
+828538ef27120a0f,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,-0.004167184233665466
+6b25b04bf1fb22ab,physician,no_edit,original,no_edit − original,scored,scored,True,0.010129541158676147
+6b25b04bf1fb22ab,physician,glasses,original,glasses − original,scored,scored,True,0.02471950650215149
+6b25b04bf1fb22ab,physician,mask,original,mask − original,scored,scored,True,0.022275835275650024
+6b25b04bf1fb22ab,physician,cap,original,cap − original,scored,scored,True,-0.01101599633693695
+6b25b04bf1fb22ab,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,0.014589965343475342
+6b25b04bf1fb22ab,physician,mask,no_edit,mask − no_edit,scored,scored,True,0.012146294116973877
+6b25b04bf1fb22ab,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.021145537495613098
+6b25b04bf1fb22ab,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.009924918413162231
+6b25b04bf1fb22ab,school teacher,glasses,original,glasses − original,scored,scored,True,0.008991941809654236
+6b25b04bf1fb22ab,school teacher,mask,original,mask − original,scored,scored,True,-0.012325353920459747
+6b25b04bf1fb22ab,school teacher,cap,original,cap − original,scored,scored,True,-0.00810953974723816
+6b25b04bf1fb22ab,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.0009329766035079956
+6b25b04bf1fb22ab,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.02225027233362198
+6b25b04bf1fb22ab,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.01803445816040039
+6b25b04bf1fb22ab,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.006776951253414154
+6b25b04bf1fb22ab,delivery driver,glasses,original,glasses − original,scored,scored,True,-0.018561415374279022
+6b25b04bf1fb22ab,delivery driver,mask,original,mask − original,scored,scored,True,-0.017588771879673004
+6b25b04bf1fb22ab,delivery driver,cap,original,cap − original,scored,scored,True,0.01958630234003067
+6b25b04bf1fb22ab,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.025338366627693176
+6b25b04bf1fb22ab,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.024365723133087158
+6b25b04bf1fb22ab,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,0.012809351086616516
+26a5b1da09c8def4,physician,no_edit,original,no_edit − original,scored,scored,True,0.007035732269287109
+26a5b1da09c8def4,physician,glasses,original,glasses − original,scored,scored,True,0.018448837101459503
+26a5b1da09c8def4,physician,mask,original,mask − original,scored,scored,True,-0.011546462774276733
+26a5b1da09c8def4,physician,cap,original,cap − original,scored,scored,True,-0.009667061269283295
+26a5b1da09c8def4,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,0.011413104832172394
+26a5b1da09c8def4,physician,mask,no_edit,mask − no_edit,scored,scored,True,-0.018582195043563843
+26a5b1da09c8def4,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.016702793538570404
+26a5b1da09c8def4,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.0073407962918281555
+26a5b1da09c8def4,school teacher,glasses,original,glasses − original,scored,scored,True,0.010488823056221008
+26a5b1da09c8def4,school teacher,mask,original,mask − original,scored,scored,True,-0.043571725487709045
+26a5b1da09c8def4,school teacher,cap,original,cap − original,scored,scored,True,-0.02002672106027603
+26a5b1da09c8def4,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,0.003148026764392853
+26a5b1da09c8def4,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.0509125217795372
+26a5b1da09c8def4,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.027367517352104187
+26a5b1da09c8def4,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.000355646014213562
+26a5b1da09c8def4,delivery driver,glasses,original,glasses − original,scored,scored,True,-0.0263737291097641
+26a5b1da09c8def4,delivery driver,mask,original,mask − original,scored,scored,True,-0.048910126090049744
+26a5b1da09c8def4,delivery driver,cap,original,cap − original,scored,scored,True,0.003242209553718567
+26a5b1da09c8def4,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.02672937512397766
+26a5b1da09c8def4,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.049265772104263306
+26a5b1da09c8def4,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,0.002886563539505005
+a0f99a172e7c6c83,physician,no_edit,original,no_edit − original,scored,scored,True,0.0009374246001243591
+a0f99a172e7c6c83,physician,glasses,original,glasses − original,scored,scored,True,0.01724933087825775
+a0f99a172e7c6c83,physician,mask,original,mask − original,scored,scored,True,-0.0012795478105545044
+a0f99a172e7c6c83,physician,cap,original,cap − original,scored,scored,True,-0.022232629358768463
+a0f99a172e7c6c83,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,0.016311906278133392
+a0f99a172e7c6c83,physician,mask,no_edit,mask − no_edit,scored,scored,True,-0.0022169724106788635
+a0f99a172e7c6c83,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.023170053958892822
+a0f99a172e7c6c83,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.0010775327682495117
+a0f99a172e7c6c83,school teacher,glasses,original,glasses − original,scored,scored,True,0.0015954971313476562
+a0f99a172e7c6c83,school teacher,mask,original,mask − original,scored,scored,True,-0.028198450803756714
+a0f99a172e7c6c83,school teacher,cap,original,cap − original,scored,scored,True,-0.026120997965335846
+a0f99a172e7c6c83,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,0.0005179643630981445
+a0f99a172e7c6c83,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.029275983572006226
+a0f99a172e7c6c83,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.027198530733585358
+a0f99a172e7c6c83,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.0010832548141479492
+a0f99a172e7c6c83,delivery driver,glasses,original,glasses − original,scored,scored,True,-0.011312626302242279
+a0f99a172e7c6c83,delivery driver,mask,original,mask − original,scored,scored,True,-0.023504339158535004
+a0f99a172e7c6c83,delivery driver,cap,original,cap − original,scored,scored,True,0.010023407638072968
+a0f99a172e7c6c83,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.012395881116390228
+a0f99a172e7c6c83,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.024587593972682953
+a0f99a172e7c6c83,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,0.008940152823925018
+b6f578cce28073d3,physician,no_edit,original,no_edit − original,scored,scored,True,0.004884406924247742
+b6f578cce28073d3,physician,glasses,original,glasses − original,scored,scored,True,0.007700413465499878
+b6f578cce28073d3,physician,mask,original,mask − original,scored,scored,True,-0.016010351479053497
+b6f578cce28073d3,physician,cap,original,cap − original,scored,scored,True,-0.018914654850959778
+b6f578cce28073d3,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,0.0028160065412521362
+b6f578cce28073d3,physician,mask,no_edit,mask − no_edit,scored,scored,True,-0.02089475840330124
+b6f578cce28073d3,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.02379906177520752
+b6f578cce28073d3,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.006925068795681
+b6f578cce28073d3,school teacher,glasses,original,glasses − original,scored,scored,True,0.004108108580112457
+b6f578cce28073d3,school teacher,mask,original,mask − original,scored,scored,True,-0.0521581694483757
+b6f578cce28073d3,school teacher,cap,original,cap − original,scored,scored,True,-0.025984138250350952
+b6f578cce28073d3,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.0028169602155685425
+b6f578cce28073d3,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.0590832382440567
+b6f578cce28073d3,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.03290920704603195
+b6f578cce28073d3,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.003925599157810211
+b6f578cce28073d3,delivery driver,glasses,original,glasses − original,scored,scored,True,-0.020601890981197357
+b6f578cce28073d3,delivery driver,mask,original,mask − original,scored,scored,True,-0.05168328434228897
+b6f578cce28073d3,delivery driver,cap,original,cap − original,scored,scored,True,0.011001989245414734
+b6f578cce28073d3,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.02452749013900757
+b6f578cce28073d3,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.05560888350009918
+b6f578cce28073d3,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,0.007076390087604523
+02d7f72c340abb0d,physician,no_edit,original,no_edit − original,scored,scored,True,0.011893592774868011
+02d7f72c340abb0d,physician,glasses,original,glasses − original,scored,scored,True,0.012358315289020538
+02d7f72c340abb0d,physician,mask,original,mask − original,scored,scored,True,-0.017110317945480347
+02d7f72c340abb0d,physician,cap,original,cap − original,scored,scored,True,-0.005714789032936096
+02d7f72c340abb0d,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,0.00046472251415252686
+02d7f72c340abb0d,physician,mask,no_edit,mask − no_edit,scored,scored,True,-0.029003910720348358
+02d7f72c340abb0d,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.017608381807804108
+02d7f72c340abb0d,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.012499809265136719
+02d7f72c340abb0d,school teacher,glasses,original,glasses − original,scored,scored,True,0.0067418888211250305
+02d7f72c340abb0d,school teacher,mask,original,mask − original,scored,scored,True,-0.051680780947208405
+02d7f72c340abb0d,school teacher,cap,original,cap − original,scored,scored,True,-0.008078567683696747
+02d7f72c340abb0d,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.005757920444011688
+02d7f72c340abb0d,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.06418059021234512
+02d7f72c340abb0d,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.020578376948833466
+02d7f72c340abb0d,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.0080910325050354
+02d7f72c340abb0d,delivery driver,glasses,original,glasses − original,scored,scored,True,-0.006321132183074951
+02d7f72c340abb0d,delivery driver,mask,original,mask − original,scored,scored,True,-0.038071393966674805
+02d7f72c340abb0d,delivery driver,cap,original,cap − original,scored,scored,True,0.031801819801330566
+02d7f72c340abb0d,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.014412164688110352
+02d7f72c340abb0d,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.046162426471710205
+02d7f72c340abb0d,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,0.023710787296295166
+a82f4cbc3ebd4d6a,physician,no_edit,original,no_edit − original,scored,scored,True,0.00723634660243988
+a82f4cbc3ebd4d6a,physician,glasses,original,glasses − original,scored,scored,True,0.017289459705352783
+a82f4cbc3ebd4d6a,physician,mask,original,mask − original,scored,scored,True,-0.0018180757761001587
+a82f4cbc3ebd4d6a,physician,cap,original,cap − original,scored,scored,True,-0.012268193066120148
+a82f4cbc3ebd4d6a,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,0.010053113102912903
+a82f4cbc3ebd4d6a,physician,mask,no_edit,mask − no_edit,scored,scored,True,-0.009054422378540039
+a82f4cbc3ebd4d6a,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.019504539668560028
+a82f4cbc3ebd4d6a,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.012043856084346771
+a82f4cbc3ebd4d6a,school teacher,glasses,original,glasses − original,scored,scored,True,0.020542748272418976
+a82f4cbc3ebd4d6a,school teacher,mask,original,mask − original,scored,scored,True,-0.027110837399959564
+a82f4cbc3ebd4d6a,school teacher,cap,original,cap − original,scored,scored,True,-0.012020617723464966
+a82f4cbc3ebd4d6a,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,0.008498892188072205
+a82f4cbc3ebd4d6a,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.039154693484306335
+a82f4cbc3ebd4d6a,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.024064473807811737
+a82f4cbc3ebd4d6a,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.008982308208942413
+a82f4cbc3ebd4d6a,delivery driver,glasses,original,glasses − original,scored,scored,True,0.0028243064880371094
+a82f4cbc3ebd4d6a,delivery driver,mask,original,mask − original,scored,scored,True,-0.012831620872020721
+a82f4cbc3ebd4d6a,delivery driver,cap,original,cap − original,scored,scored,True,0.037320636212825775
+a82f4cbc3ebd4d6a,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.006158001720905304
+a82f4cbc3ebd4d6a,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.021813929080963135
+a82f4cbc3ebd4d6a,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,0.028338328003883362
+e281959f9e2351f6,physician,no_edit,original,no_edit − original,scored,scored,True,0.011440888047218323
+e281959f9e2351f6,physician,glasses,original,glasses − original,scored,scored,True,0.004556052386760712
+e281959f9e2351f6,physician,mask,original,mask − original,scored,scored,True,-0.017012830823659897
+e281959f9e2351f6,physician,cap,original,cap − original,scored,scored,True,-0.011545863002538681
+e281959f9e2351f6,physician,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.006884835660457611
+e281959f9e2351f6,physician,mask,no_edit,mask − no_edit,scored,scored,True,-0.02845371887087822
+e281959f9e2351f6,physician,cap,no_edit,cap − no_edit,scored,scored,True,-0.022986751049757004
+e281959f9e2351f6,school teacher,no_edit,original,no_edit − original,scored,scored,True,0.012208394706249237
+e281959f9e2351f6,school teacher,glasses,original,glasses − original,scored,scored,True,-0.007003605365753174
+e281959f9e2351f6,school teacher,mask,original,mask − original,scored,scored,True,-0.05458953231573105
+e281959f9e2351f6,school teacher,cap,original,cap − original,scored,scored,True,-0.012234732508659363
+e281959f9e2351f6,school teacher,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.01921200007200241
+e281959f9e2351f6,school teacher,mask,no_edit,mask − no_edit,scored,scored,True,-0.06679792702198029
+e281959f9e2351f6,school teacher,cap,no_edit,cap − no_edit,scored,scored,True,-0.0244431272149086
+e281959f9e2351f6,delivery driver,no_edit,original,no_edit − original,scored,scored,True,0.008322596549987793
+e281959f9e2351f6,delivery driver,glasses,original,glasses − original,scored,scored,True,-0.023541167378425598
+e281959f9e2351f6,delivery driver,mask,original,mask − original,scored,scored,True,-0.059055957943201065
+e281959f9e2351f6,delivery driver,cap,original,cap − original,scored,scored,True,0.033998772501945496
+e281959f9e2351f6,delivery driver,glasses,no_edit,glasses − no_edit,scored,scored,True,-0.03186376392841339
+e281959f9e2351f6,delivery driver,mask,no_edit,mask − no_edit,scored,scored,True,-0.06737855449318886
+e281959f9e2351f6,delivery driver,cap,no_edit,cap − no_edit,scored,scored,True,0.025676175951957703

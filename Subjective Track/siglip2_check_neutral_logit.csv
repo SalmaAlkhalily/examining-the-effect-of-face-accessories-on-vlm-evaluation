@@ -1,0 +1,5 @@
+image_type,mean_neutral_logit
+base,-0.215
+cap,-2.003
+glasses,-2.263
+mask,-3.274

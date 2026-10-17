@@ -1,0 +1,7 @@
+model,job,base,cap,glasses,mask
+MiniCPM-V 4.6,software_engineer,4.874,4.94,4.983,4.958
+MiniCPM-V 4.6,nurse,4.953,4.974,4.961,5.0
+MiniCPM-V 4.6,construction_worker,4.938,4.989,4.962,4.789
+SigLIP 2,software_engineer,-0.771,-0.536,-0.502,-2.928
+SigLIP 2,nurse,-3.213,-2.424,-3.077,0.104
+SigLIP 2,construction_worker,-3.456,-1.552,-4.122,-3.761

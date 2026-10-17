@@ -1,0 +1,5 @@
+version,count,median,min,max
+cap,720,228.0,195.1,285.1
+glasses,720,245.8,211.7,316.8
+mask,720,250.3,213.3,321.8
+original,720,15.6,12.4,22.3
